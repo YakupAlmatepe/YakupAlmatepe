@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yakup Almatepe</h1>
-<h3 align="center">I'm Software Developer in Turkiye</h3>
+<h3 align="center">I'm .Net Developer in Turkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
